@@ -24,4 +24,3 @@ class LECANDY {
         in.close();
      }
 }
-
