@@ -39,6 +39,6 @@ class CNOTE
 		    
 		}
 		
-		in.close();
+		in.close(); 
 	}
 }
