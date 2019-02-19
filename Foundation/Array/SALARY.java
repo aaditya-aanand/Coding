@@ -28,6 +28,6 @@ class SALARY
 		    System.out.println(ans);
 		}
 		
-		in.close();
+		in.close(); 
 	}
 }
