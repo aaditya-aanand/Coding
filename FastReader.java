@@ -71,3 +71,4 @@ class Parser
       return buffer[bufferPointer++];
    }
 }
+
