@@ -44,6 +44,15 @@ class COMPILER
 			if(stack.isEmpty())
 				System.out.println(len);
 
+			else
+			{
+				int x = stack.pop();
+				while(!stack.isEmpty())
+					x = stack.pop();
+
+				System.out.println(x);
+			}
+
 		}
 	}
 }
