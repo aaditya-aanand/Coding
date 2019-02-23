@@ -2,7 +2,7 @@ import java.util.*;
 import java.lang.*;
 import java.io.*;
 
-class HISTOGRA
+class D281
 {
 	public static void main (String[] args) throws java.lang.Exception
 	{
