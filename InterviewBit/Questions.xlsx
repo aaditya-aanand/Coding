@@ -1,0 +1,273 @@
+#	Problem Code	Topic	Average Time	Score
+1	Allocate Books	Binary Search	58:29:00	350
+2	Implement Power Function	Binary Search	57:38:00	275
+3	Matrix Median	Binary Search	64:07:00	225
+4	Matrix Search	Binary Search	35:14:00	250
+5	Median of Array	Binary Search	71:11:00	325
+6	Painter's Partition Problem	Binary Search	68:39:00	350
+7	Rotated Sorted Array Search	Binary Search	54:16:00	325
+8	Search for a Range	Binary Search	40:05:00	250
+9	Sorted Insert Position	Binary Search	23:44	250
+10	Square Root of Integer	Binary Search	40:11:00	275
+11	Arrange II	Dynamic Programming	70:10:00	350
+12	Best Time to Buy and Sell Stocks I	Dynamic Programming	25:24:00	300
+13	Best Time to Buy and Sell Stocks II	Dynamic Programming	35:24:00	225
+14	Best Time to Buy and Sell Stocks III	Dynamic Programming	48:31:00	700
+15	Coin Sum Infinite	Dynamic Programming	55:35:00	225
+16	Coins in a Line	Dynamic Programming	51:31:00	300
+17	Count Permutations of BST	Dynamic Programming	79:18:00	400
+18	Distinct Subsequences	Dynamic Programming	51:48:00	325
+19	Dungeon Princess	Dynamic Programming	57:22:00	300
+20	Edit Distance	Dynamic Programming	41:12:00	300
+21	Equal Average Partition	Dynamic Programming	84:28:00	350
+22	Evaluate Expression To True	Dynamic Programming	66:18:00	350
+23	Flip Array	Dynamic Programming	81:22:00	200
+24	Interleaving Strings	Dynamic Programming	49:11:00	500
+25	Intersecting Chords in a Circle	Dynamic Programming	58:18:00	300
+26	Jump Game Array	Dynamic Programming	36:07:00	225
+27	Kth Manhattan Distance Neighbourhood	Dynamic Programming	63:36:00	200
+28	Largest area of rectangle with permutations	Dynamic Programming	61:18:00	200
+29	Length of Longest Subsequence	Dynamic Programming	58:10:00	200
+30	Longest Arithmetic Progression	Dynamic Programming	60:19:00	200
+31	Longest Increasing Subsequence	Dynamic Programming	27:56:00	300
+32	Longest valid Parentheses	Dynamic Programming	47:08:00	700
+33	Max Product Subarray	Dynamic Programming	56:26:00	300
+34	Max Rectangle in Binary Matrix	Dynamic Programming	64:30:00	350
+35	Max Sum Path in Binary Tree	Dynamic Programming	47:06:00	400
+36	Max Sum Without Adjacent Elements	Dynamic Programming	51:04:00	225
+37	Min Jumps Array	Dynamic Programming	59:51:00	300
+38	Min Sum Path in Matrix	Dynamic Programming	27:45:00	300
+39	Min Sum Path in Triangle	Dynamic Programming	37:46:00	300
+40	N digit numbers with digit sum S	Dynamic Programming	58:24:00	200
+41	Palindrome Partitioning II	Dynamic Programming	47:50:00	400
+42	Queen Attack	Dynamic Programming	74:20:00	350
+43	Regular Expression II	Dynamic Programming	59:21:00	500
+44	Regular Expression Match	Dynamic Programming	63:02:00	500
+45	Repeating Sub-Sequence	Dynamic Programming	53:49:00	300
+46	Rod Cutting	Dynamic Programming	76:21:00	350
+47	Scramble String	Dynamic Programming	56:29:00	500
+48	Shortest common superstring	Dynamic Programming	72:53:00	200
+49	Stairs	Dynamic Programming	14:05	225
+50	Sub Matrices with sum Zero	Dynamic Programming	73:09:00	200
+51	Tushar's Birthday Bombs	Dynamic Programming	78:43:00	200
+52	Tushar's Birthday Party	Dynamic Programming	60:10:00	200
+53	Unique Binary Search Trees II	Dynamic Programming	30:12:00	400
+54	Unique Paths in a Grid	Dynamic Programming	29:35:00	300
+55	Ways to color a 3xN Board	Dynamic Programming	60:07:00	200
+56	Ways to Decode	Dynamic Programming	62:27:00	225
+57	Word Break	Dynamic Programming	51:06:00	400
+58	Word Break II	Dynamic Programming	54:39:00	350
+59	Another chocolate game	Codersbit	39:29:00	200
+60	Array and Prime Divisors	Codersbit	26:58:00	150
+61	Delete and Conquer	Codersbit	10:17	150
+62	Distinct Primes	Codersbit	57:10:00	150
+63	EZPZ	Codersbit	37:34:00	200
+65	Longest Subarray Difference	Codersbit	67:23:00	200
+66	MinimiZe	Codersbit	33:42:00	200
+67	Prime Subarrays	Codersbit	27:58:00	150
+68	Scores	Codersbit	77:40:00	200
+70	Simple Queries	Codersbit	65:52:00	300
+71	Smallest Subarray	Codersbit	34:57:00	250
+72	The Sequence game	Codersbit	27:09:00	200
+73	The square game	Codersbit	6:50	200
+74	Three Numbers	Codersbit	47:19:00	200
+76	Very Hard Queries	Codersbit	77:01:00	200
+77	Vowels	Codersbit	57:56:00	250
+82	Distinct Numbers in Window	Heaps And Maps	35:46:00	600
+83	LRU Cache	Heaps And Maps	63:44:00	1000
+84	Magician and Chocolates	Heaps And Maps	37:33:00	250
+85	Merge K Sorted Lists	Heaps And Maps	39:26:00	600
+86	N max pair combinations	Heaps And Maps	71:56:00	200
+87	Ways to form Max Heap	Heaps And Maps	72:38:00	200
+88	Add One To Number	Arrays	43:43:00	225
+89	Anti Diagonals	Arrays	39:44:00	225
+90	Find Duplicate in Array	Arrays	39:43:00	450
+91	Find Permutation	Arrays	49:12:00	300
+92	First Missing Integer	Arrays	63:58:00	300
+93	Flip	Arrays	73:49:00	400
+94	Hotel Bookings Possible	Arrays	61:45:00	225
+95	Kth Row of Pascal's Triangle	Arrays	27:54:00	225
+96	Largest Number	Arrays	70:20:00	225
+97	Max Distance	Arrays	64:12:00	250
+98	Max Non Negative SubArray	Arrays	57:45:00	150
+99	Max Sum Contiguous Subarray	Arrays	33:39:00	225
+100	Maximum Absolute Difference	Arrays	64:05:00	250
+101	Maximum Consecutive Gap	Arrays	52:05:00	450
+102	Maximum Unsorted Subarray	Arrays	58:56:00	250
+103	MAXSPPROD	Arrays	74:14:00	200
+104	Merge Intervals	Arrays	77:54:00	225
+105	Merge Overlapping Intervals	Arrays	46:00:00	225
+106	Min Steps in Infinite Grid	Arrays	37:51:00	150
+107	N/3 Repeat Number	Arrays	63:13:00	600
+108	Next Permutation	Arrays	58:36:00	300
+109	Noble Integer	Arrays	42:12:00	200
+110	Pascal Triangle	Arrays	26:29:00	225
+111	Repeat and Missing Number Array	Arrays	63:21:00	350
+112	Rotate Matrix	Arrays	58:29:00	300
+113	Set Matrix Zeros	Arrays	47:07:00	300
+114	Spiral Order Matrix II	Arrays	46:34:00	225
+115	Triplets with Sum between given range	Arrays	70:15:00	200
+116	Wave Array	Arrays	22:08	225
+121	Add Two Numbers as Lists	Linked Lists	41:10:00	250
+122	Insertion Sort List	Linked Lists	43:17:00	300
+123	K reverse linked list	Linked Lists	52:03:00	200
+124	List Cycle	Linked Lists	37:51:00	600
+125	Merge Two Sorted Lists	Linked Lists	27:30:00	300
+126	Palindrome List	Linked Lists	44:59:00	200
+127	Partition List	Linked Lists	45:28:00	275
+128	Remove Duplicates from Sorted List	Linked Lists	17:13	300
+129	Remove Duplicates from Sorted List II	Linked Lists	52:53:00	300
+130	Remove Nth Node from List End	Linked Lists	26:13:00	350
+131	Reorder List	Linked Lists	53:09:00	600
+132	Reverse Link List II	Linked Lists	55:12:00	450
+133	Rotate List	Linked Lists	31:30:00	350
+134	Sort List	Linked Lists	50:05:00	350
+135	Swap List Nodes in pairs	Linked Lists	31:08:00	350
+136	Combination Sum	Backtracking	54:17:00	300
+137	Combination Sum II	Backtracking	36:17:00	300
+138	Combinations	Backtracking	40:38:00	300
+139	Generate all Parentheses II	Backtracking	46:14:00	350
+140	Gray Code	Backtracking	51:16:00	350
+141	Kth Permutation Sequence	Backtracking	68:20:00	350
+142	Letter Phone	Backtracking	48:19:00	250
+143	NQueens	Backtracking	65:09:00	550
+144	Palindrome Partitioning	Backtracking	59:30:00	300
+145	Permutations	Backtracking	35:44:00	350
+146	Subset	Backtracking	55:38:00	250
+147	Subsets II	Backtracking	35:09:00	300
+148	Sudoku	Backtracking	55:52:00	700
+149	City Tour	Math	54:38:00	300
+150	Excel Column Number	Math	23:12	175
+151	Excel Column Title	Math	39:17:00	175
+152	FizzBuzz	Math	12:06	200
+153	Greatest Common Divisor	Math	10:52	200
+154	Grid Unique Paths	Math	32:05:00	375
+155	Largest Coprime Divisor	Math	44:29:00	250
+156	Numbers of length N and value less than K	Math	79:32:00	200
+157	Palindrome Integer	Math	17:22	200
+158	Power Of Two Integers	Math	38:15:00	250
+159	Prime Sum	Math	42:38:00	150
+160	Random Attendance	Math	54:42:00	500
+161	Rearrange Array	Math	48:16:00	250
+162	Reverse integer	Math	27:58:00	200
+163	Sorted Permutation Rank	Math	67:44:00	250
+164	Sorted Permutation Rank with Repeats	Math	64:18:00	500
+165	Sum of pairwise Hamming Distance	Math	58:15:00	200
+166	Trailing Zeros in Factorial	Math	18:24	250
+167	2-Sum Binary Tree	Tree Data Structure	55:07:00	400
+168	Balanced Binary Tree	Tree Data Structure	28:39:00	275
+169	Binary Tree From Inorder And Postorder	Tree Data Structure	41:31:00	375
+170	BST Iterator	Tree Data Structure	35:31:00	500
+171	Construct Binary Tree From Inorder And Preorder	Tree Data Structure	40:15:00	375
+172	Flatten Binary Tree to Linked List	Tree Data Structure	39:14:00	500
+173	Hotel Reviews	Tree Data Structure	64:12:00	200
+174	Identical Binary Trees	Tree Data Structure	10:59	300
+175	Inorder Traversal	Tree Data Structure	30:34:00	350
+176	Inorder Traversal of Cartesian Tree	Tree Data Structure	43:32:00	300
+177	Invert the Binary Tree	Tree Data Structure	11:58	300
+178	Kth Smallest Element In Tree	Tree Data Structure	26:53:00	300
+179	Least Common Ancestor	Tree Data Structure	52:59:00	450
+180	Max Depth of Binary Tree	Tree Data Structure	6:27	350
+181	Min Depth of Binary Tree	Tree Data Structure	16:16	350
+182	Order of People Heights	Tree Data Structure	64:34:00	700
+183	Path Sum	Tree Data Structure	25:20:00	350
+184	Populate Next Right Pointers Tree	Tree Data Structure	44:42:00	900
+185	Postorder Traversal	Tree Data Structure	28:29:00	350
+186	Preorder Traversal	Tree Data Structure	14:11	350
+187	Recover Binary Search Tree	Tree Data Structure	51:34:00	750
+188	Root to Leaf Paths With Sum	Tree Data Structure	36:54:00	350
+189	Shortest Unique Prefix	Tree Data Structure	62:14:00	350
+190	Sorted Array To Balanced BST	Tree Data Structure	26:07:00	300
+191	Sum Root to Leaf Numbers	Tree Data Structure	41:06:00	350
+192	Symmetric Binary Tree	Tree Data Structure	20:13	300
+193	Vertical Order traversal of Binary Tree	Tree Data Structure	64:37:00	200
+194	ZigZag Level Order Traversal BT	Tree Data Structure	38:54:00	350
+195	Black Shapes	Graph Data Structure & Algorithms	43:06:00	300
+196	Capture Regions on Board	Graph Data Structure & Algorithms	53:11:00	500
+197	Clone Graph	Graph Data Structure & Algorithms	47:12:00	500
+198	Commutable Islands	Graph Data Structure & Algorithms	60:33:00	200
+199	Convert Sorted List to Binary Search Tree	Graph Data Structure & Algorithms	36:52:00	300
+200	Knight On Chess Board	Graph Data Structure & Algorithms	54:55:00	300
+201	Largest Distance between nodes of a Tree	Graph Data Structure & Algorithms	65:27:00	200
+202	Level Order	Graph Data Structure & Algorithms	26:31:00	300
+203	Possibility of finishing all courses given pre-requisites	Graph Data Structure & Algorithms	52:30:00	200
+204	Smallest Multiple With 0 and 1	Graph Data Structure & Algorithms	75:22:00	300
+205	Smallest sequence with given Primes	Graph Data Structure & Algorithms	52:41:00	200
+206	Stepping Numbers	Graph Data Structure & Algorithms	46:25:00	300
+207	Sum Of Fibonacci Numbers	Graph Data Structure & Algorithms	44:12:00	300
+208	Valid Path	Graph Data Structure & Algorithms	75:48:00	200
+209	Word Ladder I	Graph Data Structure & Algorithms	52:43:00	600
+210	Word Ladder II	Graph Data Structure & Algorithms	64:01:00	800
+211	Word Search Board	Graph Data Structure & Algorithms	44:22:00	500
+266	Assign Mice to Holes	Greedy Algorithm	19:23	300
+267	Bulbs	Greedy Algorithm	20:28	200
+268	Distribute Candy	Greedy Algorithm	54:47:00	300
+269	Gas Station	Greedy Algorithm	49:30:00	700
+270	Highest Product	Greedy Algorithm	26:44:00	200
+271	Majority Element	Greedy Algorithm	17:23	400
+272	Seats	Greedy Algorithm	62:53:00	300
+273	Reverse Bits	Bit Manipulation	22:30	225
+274	Number of 1 Bits	Bit Manipulation	8:35	200
+275	Single Number	Bit Manipulation	11:35	275
+276	Divide Integers	Bit Manipulation	57:01:00	250
+277	Single Number II	Bit Manipulation	36:52:00	275
+278	Different Bits Sum Pairwise	Bit Manipulation	45:14:00	300
+279	Min XOR value	Bit Manipulation	35:57:00	200
+280	3 Sum	Two Pointers	56:05:00	225
+281	3 Sum Zero	Two Pointers	49:09:00	225
+282	Array 3 Pointers	Two Pointers	47:56:00	400
+283	Container With Most Water	Two Pointers	43:52:00	400
+284	Counting Triangles	Two Pointers	51:30:00	225
+285	Diffk	Two Pointers	27:25:00	300
+286	Intersection Of Sorted Arrays	Two Pointers	17:45	225
+287	Max Continuous Series of 1s	Two Pointers	69:44:00	300
+288	Merge Two Sorted Lists II	Two Pointers	23:50	200
+289	Minimize the absolute difference	Two Pointers	55:08:00	200
+290	Remove Duplicates from Sorted Array	Two Pointers	30:12:00	250
+291	Remove Duplicates from Sorted Array II	Two Pointers	30:21:00	250
+292	Remove Element from Array	Two Pointers	26:14:00	250
+293	Sort by Color	Two Pointers	21:29	325
+294	Add Binary Strings	Strings	37:57:00	300
+295	Amazing Subarrays	Strings	19:15	150
+296	Atoi	Strings	49:21:00	250
+297	Compare Version Numbers	Strings	60:09:00	225
+298	Count And Say	Strings	40:11:00	250
+299	Implement StrStr	Strings	32:07:00	225
+300	Integer To Roman	Strings	37:55:00	250
+301	Justified Text	Strings	68:30:00	300
+302	Length of Last Word	Strings	17:48	225
+303	Longest Common Prefix	Strings	26:44:00	225
+304	Longest Palindromic Substring	Strings	55:09:00	500
+305	Minimum Characters required to make a String Palindromic	Strings	57:57:00	200
+306	Multiply Strings	Strings	55:34:00	375
+307	Palindrome String	Strings	30:17:00	150
+308	Power of 2	Strings	55:54:00	350
+309	Pretty Json	Strings	55:38:00	400
+310	Reverse the String	Strings	35:55:00	250
+311	Roman To Integer	Strings	31:20:00	250
+312	Stringoholics	Strings	69:04:00	300
+313	Valid Ip Addresses	Strings	54:40:00	250
+314	Valid Number	Strings	52:40:00	250
+315	Zigzag String	Strings	48:33:00	300
+339	Evaluate Expression	Stacks And Queues	31:22:00	400
+340	Largest Rectangle in Histogram	Stacks And Queues	58:00:00	450
+341	Min Stack	Stacks And Queues	40:58:00	400
+342	Nearest Smaller Element	Stacks And Queues	39:59:00	350
+343	Rain Water Trapped	Stacks And Queues	52:59:00	400
+344	Redundant Braces	Stacks And Queues	40:25:00	300
+345	Simplify Directory Path	Stacks And Queues	49:10:00	250
+346	Sliding Window Maximum	Stacks And Queues	60:42:00	450
+347	2 Sum	Hashing	45:09:00	300
+348	4 Sum	Hashing	57:41:00	325
+349	Anagrams	Hashing	42:33:00	350
+350	Colorful Number	Hashing	41:03:00	150
+351	Copy List	Hashing	47:19:00	450
+352	Diffk II	Hashing	26:24:00	375
+353	Equal	Hashing	62:42:00	350
+354	Fraction	Hashing	69:20:00	450
+355	Largest Continuous Sequence Zero Sum	Hashing	59:12:00	200
+356	Longest Substring Without Repeat	Hashing	45:37:00	350
+357	Points on the Straight Line	Hashing	64:35:00	450
+358	Substring Concatenation	Hashing	64:01:00	1000
+359	Valid Sudoku	Hashing	43:22:00	325
+360	Window String	Hashing	68:28:00	350
