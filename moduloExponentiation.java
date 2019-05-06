@@ -1,7 +1,7 @@
 /* May need some edits in case modulo is 1 */
 public static long ModuloExponentiation(long base, long exp, long modulo)
 {
-  long result = 0;
+  long result = 1;
   while(exp > 0)
   {
     if(exp%2 == 1)
