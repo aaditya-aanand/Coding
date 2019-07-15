@@ -6,4 +6,4 @@ class sortBySomething implements Comparator<T>
     } 
 } 
 
-// Collections.sort(<>, new sortBySomething());
+// Arrays.sort(<>, new sortBySomething());
